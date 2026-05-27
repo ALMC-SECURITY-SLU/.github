@@ -14,7 +14,7 @@
 [![Català](https://img.shields.io/badge/almc.cat-004f8a?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://almc.cat)
 
 [![X / Twitter](https://img.shields.io/badge/-@almc__security-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/almc_security)
-[![Email](https://img.shields.io/badge/-hola%40almc.es-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hola@almc.es)
+[![Email](https://img.shields.io/badge/-info%40almc.es-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@almc.es)
 [![Location](https://img.shields.io/badge/-Lleida%2C%20Espa%C3%B1a-1d4e89?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lleida)
 
 </div>
@@ -53,15 +53,15 @@ Small team, direct line to the engineer who wrote the code — no middle layer.
 |---|---|---|---|
 | **VeriFactu** | Facturación electrónica conforme **SII / VeriFactu** para España. SaaS multi-tenant y plugin oficial para WooCommerce. | Spanish **SII / VeriFactu** e-invoicing. Multi-tenant SaaS plus official WooCommerce plugin. | [Plugin OSS ↗](https://github.com/ALMC-SECURITY-SLU/almc-verifactu-wordpress-woocommerce) |
 | **WebTV** | Cartelería digital y TV corporativa para Smart TV, **Fire TV** y Chromecast. Reproducción 24/7 con gestión central. | Digital signage and corporate TV for Smart TV, **Fire TV** and Chromecast. 24/7 playback with central management. | [almc.es/webtv ↗](https://almc.es/es/webtv) |
-| **Email‑AI** | Asistente IA que redacta borradores de respuesta sobre tu propio buzón **SmarterMail**. Con antivirus y filtrado fail‑closed. | AI assistant drafting replies on your own **SmarterMail** mailbox. Fail-closed antivirus and filtering. | [hola@almc.es ✉️](mailto:hola@almc.es?subject=Email-AI) |
+| **Email‑AI** | Asistente IA que redacta borradores de respuesta sobre tu propio buzón **SmarterMail**. Con antivirus y filtrado fail‑closed. | AI assistant drafting replies on your own **SmarterMail** mailbox. Fail-closed antivirus and filtering. | [info@almc.es ✉️](mailto:info@almc.es?subject=Email-AI) |
 | **Fichaje ALMC** | Control horario de trabajadores conforme a normativa laboral española (RD‑Ley 8/2019). | Worker time tracking compliant with Spanish labor law (RD‑Ley 8/2019). | [almc.es/fichaje-trabajadores ↗](https://almc.es/es/fichaje-trabajadores) |
 | **WhatsBoost** | Envío transaccional y campañas vía **WhatsApp Business** desde tus sistemas. Integraciones para WooCommerce y PrestaShop. | Transactional and campaign messaging via **WhatsApp Business** from your own stack. WooCommerce and PrestaShop integrations. | [almc.es/productos/whatsboost ↗](https://almc.es/es/productos/whatsboost) · [WP](https://almc.es/es/whatsboost/wordpress) · [PS](https://almc.es/es/whatsboost/prestashop) |
-| **PrintFlow** | Gestión del flujo de impresión documental para oficina y producción. | Document print flow management for office and production environments. | [hola@almc.es ✉️](mailto:hola@almc.es?subject=PrintFlow) |
-| **Plead** | Plataforma de gestión documental para procedimientos legales. | Document management platform for legal proceedings. | [hola@almc.es ✉️](mailto:hola@almc.es?subject=Plead) |
+| **PrintFlow** | Gestión del flujo de impresión documental para oficina y producción. | Document print flow management for office and production environments. | [info@almc.es ✉️](mailto:info@almc.es?subject=PrintFlow) |
+| **Plead** | Plataforma de gestión documental para procedimientos legales. | Document management platform for legal proceedings. | [info@almc.es ✉️](mailto:info@almc.es?subject=Plead) |
 | **MCP Servers** | Directorio + servidores **Model Context Protocol** propios y de terceros, indexados y categorizados. | In-house and curated **Model Context Protocol** servers, indexed and categorized. | [almc.es/mcpserver ↗](https://almc.es/es/mcpserver) |
 
-> 💬 **¿Quieres una demo o un piloto?** Escríbenos a **[hola@almc.es](mailto:hola@almc.es)** o desde [almc.es/contacto](https://almc.es).
-> **Want a demo or pilot?** Reach us at **[hola@almc.es](mailto:hola@almc.es)** or via [almcsecurity.com](https://almcsecurity.com).
+> 💬 **¿Quieres una demo o un piloto?** Escríbenos a **[info@almc.es](mailto:info@almc.es)** o desde [almc.es/contacto](https://almc.es).
+> **Want a demo or pilot?** Reach us at **[info@almc.es](mailto:info@almc.es)** or via [almcsecurity.com](https://almcsecurity.com).
 
 ---
 
@@ -140,7 +140,7 @@ Iremos liberando más herramientas internas a medida que las maduremos para uso 
 | 🌐 **Global / English** | [almcsecurity.com](https://almcsecurity.com) |
 | 🇫🇷 **France** | [almcsecurite.fr](https://almcsecurite.fr) |
 | 🏴󠁥󠁳󠁣󠁴󠁿 **Catalunya** | [almc.cat](https://almc.cat) |
-| 📧 **Email** | [hola@almc.es](mailto:hola@almc.es) |
+| 📧 **Email** | [info@almc.es](mailto:info@almc.es) |
 | 🐦 **X / Twitter** | [@almc_security](https://x.com/almc_security) |
 | 📍 **Sede** | Lleida, España |
 
