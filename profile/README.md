@@ -49,15 +49,16 @@ Small team, direct line to the engineer who wrote the code — no middle layer.
 
 ## 🚀 Nuestros productos SaaS / Our SaaS products
 
-| Producto | Qué hace (ES) | What it does (EN) |
-|---|---|---|
-| **VeriFactu** | Facturación electrónica conforme **SII / VeriFactu** para España. SaaS multi-tenant y plugin oficial para WooCommerce. | Spanish **SII / VeriFactu** e-invoicing. Multi-tenant SaaS plus official WooCommerce plugin. |
-| **WebTV** | Cartelería digital y TV corporativa para Smart TV, **Fire TV** y Chromecast. Reproducción 24/7 con gestión central. | Digital signage and corporate TV for Smart TV, **Fire TV** and Chromecast. 24/7 playback with central management. |
-| **Email‑AI** | Asistente IA que redacta borradores de respuesta sobre tu propio buzón **SmarterMail**. Con antivirus y filtrado fail‑closed. | AI assistant drafting replies on your own **SmarterMail** mailbox. Fail-closed antivirus and filtering. |
-| **Fichaje ALMC** | Control horario de trabajadores conforme a normativa laboral española (RD‑Ley 8/2019). | Worker time tracking compliant with Spanish labor law (RD‑Ley 8/2019). |
-| **WhatsBoost** | Envío transaccional y campañas vía **WhatsApp Business** desde tus sistemas. | Transactional and campaign messaging via **WhatsApp Business** from your own stack. |
-| **PrintFlow** | Gestión del flujo de impresión documental para oficina y producción. | Document print flow management for office and production environments. |
-| **Plead** | Plataforma de gestión documental para procedimientos legales. | Document management platform for legal proceedings. |
+| Producto | Qué hace (ES) | What it does (EN) | Enlace |
+|---|---|---|---|
+| **VeriFactu** | Facturación electrónica conforme **SII / VeriFactu** para España. SaaS multi-tenant y plugin oficial para WooCommerce. | Spanish **SII / VeriFactu** e-invoicing. Multi-tenant SaaS plus official WooCommerce plugin. | [Plugin OSS ↗](https://github.com/ALMC-SECURITY-SLU/almc-verifactu-wordpress-woocommerce) |
+| **WebTV** | Cartelería digital y TV corporativa para Smart TV, **Fire TV** y Chromecast. Reproducción 24/7 con gestión central. | Digital signage and corporate TV for Smart TV, **Fire TV** and Chromecast. 24/7 playback with central management. | [almc.es/webtv ↗](https://almc.es/es/webtv) |
+| **Email‑AI** | Asistente IA que redacta borradores de respuesta sobre tu propio buzón **SmarterMail**. Con antivirus y filtrado fail‑closed. | AI assistant drafting replies on your own **SmarterMail** mailbox. Fail-closed antivirus and filtering. | [hola@almc.es ✉️](mailto:hola@almc.es?subject=Email-AI) |
+| **Fichaje ALMC** | Control horario de trabajadores conforme a normativa laboral española (RD‑Ley 8/2019). | Worker time tracking compliant with Spanish labor law (RD‑Ley 8/2019). | [almc.es/fichaje-trabajadores ↗](https://almc.es/es/fichaje-trabajadores) |
+| **WhatsBoost** | Envío transaccional y campañas vía **WhatsApp Business** desde tus sistemas. Integraciones para WooCommerce y PrestaShop. | Transactional and campaign messaging via **WhatsApp Business** from your own stack. WooCommerce and PrestaShop integrations. | [almc.es/productos/whatsboost ↗](https://almc.es/es/productos/whatsboost) · [WP](https://almc.es/es/whatsboost/wordpress) · [PS](https://almc.es/es/whatsboost/prestashop) |
+| **PrintFlow** | Gestión del flujo de impresión documental para oficina y producción. | Document print flow management for office and production environments. | [hola@almc.es ✉️](mailto:hola@almc.es?subject=PrintFlow) |
+| **Plead** | Plataforma de gestión documental para procedimientos legales. | Document management platform for legal proceedings. | [hola@almc.es ✉️](mailto:hola@almc.es?subject=Plead) |
+| **MCP Servers** | Directorio + servidores **Model Context Protocol** propios y de terceros, indexados y categorizados. | In-house and curated **Model Context Protocol** servers, indexed and categorized. | [almc.es/mcpserver ↗](https://almc.es/es/mcpserver) |
 
 > 💬 **¿Quieres una demo o un piloto?** Escríbenos a **[hola@almc.es](mailto:hola@almc.es)** o desde [almc.es/contacto](https://almc.es).
 > **Want a demo or pilot?** Reach us at **[hola@almc.es](mailto:hola@almc.es)** or via [almcsecurity.com](https://almcsecurity.com).
