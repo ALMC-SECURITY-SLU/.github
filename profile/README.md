@@ -106,11 +106,15 @@ Iremos liberando más herramientas internas a medida que las maduremos para uso 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
+![BorgBackup](https://img.shields.io/badge/BorgBackup-000000?style=for-the-badge&logo=borgbackup&logoColor=white)
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D77655?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_self--hosted-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Headscale](https://img.shields.io/badge/Headscale_Mesh-2F2F2F?style=for-the-badge&logo=wireguard&logoColor=white)
 
 </div>
