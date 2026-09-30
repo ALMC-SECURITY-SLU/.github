@@ -19,75 +19,72 @@
 
 </div>
 
----
-
-## 🇪🇸 Quiénes somos
-
-**ALMC SECURITY S.L.U.** es una agencia digital con sede en **Lleida (España)** que diseña y opera software de producción para empresas. No vendemos demos: cada producto que ves en este perfil está desplegado y funcionando en clientes reales todos los días.
-
-Nuestro foco son tres frentes que solemos hacer en el mismo proyecto:
-
-- **Producto SaaS propio** — facturación electrónica, cartelería digital, IA aplicada a correo, control horario, mensajería y más.
-- **Desarrollo a medida** — webs, e-commerce, apps móviles e integraciones API end-to-end.
-- **Ciberseguridad e infraestructura** — hardening, observabilidad, redes privadas, antiabuso, ClamAV, copias y DRP.
-
-Equipo pequeño, contacto directo con el ingeniero que toca el código, sin intermediarios.
-
-## 🌐 Who we are
-
-**ALMC SECURITY S.L.U.** is a Spanish digital agency based in **Lleida** that designs and runs production-grade software for businesses. We don't ship demos: every product on this profile is live in customer environments today.
-
-We work across three intertwined fronts, usually within the same engagement:
-
-- **In-house SaaS products** — e-invoicing, digital signage, AI for email, time tracking, messaging and more.
-- **Custom software** — websites, e-commerce, mobile apps and end-to-end API integrations.
-- **Cybersecurity & infrastructure** — hardening, observability, private mesh networks, anti-abuse, ClamAV, backups and DR.
-
-Small team, direct line to the engineer who wrote the code — no middle layer.
+> **¿Necesitas VeriFactu, WhatsApp automatizado o una auditoría de seguridad?**
+> Escríbenos a **[info@almc.es](mailto:info@almc.es)** o llama al **[+34 614 443 757](tel:+34614443757)**.
 
 ---
 
-## 🚀 Nuestros productos SaaS / Our SaaS products
+## Quiénes somos
 
-| Producto | Qué hace (ES) | What it does (EN) | Enlace |
-|---|---|---|---|
-| **VeriFactu** | Facturación electrónica conforme **SII / VeriFactu** para España. SaaS multi-tenant y plugin oficial para WooCommerce. | Spanish **SII / VeriFactu** e-invoicing. Multi-tenant SaaS plus official WooCommerce plugin. | [Plugin OSS ↗](https://github.com/ALMC-SECURITY-SLU/almc-verifactu-wordpress-woocommerce) |
-| **WebTV** | Cartelería digital y TV corporativa para Smart TV, **Fire TV** y Chromecast. Reproducción 24/7 con gestión central. | Digital signage and corporate TV for Smart TV, **Fire TV** and Chromecast. 24/7 playback with central management. | [almc.es/webtv ↗](https://almc.es/es/webtv) |
-| **Email‑AI** | Asistente IA que redacta borradores de respuesta sobre tu propio buzón **SmarterMail**. Con antivirus y filtrado fail‑closed. | AI assistant drafting replies on your own **SmarterMail** mailbox. Fail-closed antivirus and filtering. | [info@almc.es ✉️](mailto:info@almc.es?subject=Email-AI) |
-| **Fichaje ALMC** | Control horario de trabajadores conforme a normativa laboral española (RD‑Ley 8/2019). | Worker time tracking compliant with Spanish labor law (RD‑Ley 8/2019). | [almc.es/fichaje-trabajadores ↗](https://almc.es/es/fichaje-trabajadores) |
-| **WhatsBoost** | Envío transaccional y campañas vía **WhatsApp Business** desde tus sistemas. Integraciones para WooCommerce y PrestaShop. | Transactional and campaign messaging via **WhatsApp Business** from your own stack. WooCommerce and PrestaShop integrations. | [almc.es/productos/whatsboost ↗](https://almc.es/es/productos/whatsboost) · [WP](https://almc.es/es/whatsboost/wordpress) · [PS](https://almc.es/es/whatsboost/prestashop) |
-| **PrintFlow** | Gestión del flujo de impresión documental para oficina y producción. | Document print flow management for office and production environments. | [info@almc.es ✉️](mailto:info@almc.es?subject=PrintFlow) |
-| **Plead** | Plataforma de gestión documental para procedimientos legales. | Document management platform for legal proceedings. | [info@almc.es ✉️](mailto:info@almc.es?subject=Plead) |
-| **MCP Servers** | Directorio + servidores **Model Context Protocol** propios y de terceros, indexados y categorizados. | In-house and curated **Model Context Protocol** servers, indexed and categorized. | [almc.es/mcpserver ↗](https://almc.es/es/mcpserver) |
+**ALMC SECURITY S.L.U.** es una agencia digital de **Lleida** que desarrolla y opera software de producción para empresas de **Lleida, Cataluña y toda España**. Cada producto de este perfil está desplegado en clientes reales.
 
-> 💬 **¿Quieres una demo o un piloto?** Escríbenos a **[info@almc.es](mailto:info@almc.es)** o desde [almc.es/contacto](https://almc.es).
-> **Want a demo or pilot?** Reach us at **[info@almc.es](mailto:info@almc.es)** or via [almcsecurity.com](https://almcsecurity.com).
+- **Producto SaaS propio**: facturación electrónica, mensajería, chatbots, control horario, cartelería digital, TPV y más.
+- **Desarrollo a medida**: webs, e-commerce, apps móviles e integraciones API.
+- **Ciberseguridad e infraestructura**: auditorías, hardening, antiabuso, copias y DRP.
+
+Equipo pequeño, contacto directo con el ingeniero que toca el código.
+
+## Facturación electrónica: VeriFactu
+
+Software de facturación conforme a **VeriFactu / SII** para autónomos y pymes, con plugin oficial y open source para **WooCommerce**. Si facturas desde WordPress, tienda online o ERP propio, te lo integramos.
+
+[Ver VeriFactu ↗](https://almc.es/es/verifactu) · [Plugin WooCommerce (GPLv2+) ↗](https://github.com/ALMC-SECURITY-SLU/almc-verifactu-wordpress-woocommerce)
 
 ---
 
-## 📦 Open Source
+## Productos SaaS
+
+| Producto | Qué hace | Enlace |
+|---|---|---|
+| **VeriFactu** | Facturación verificable conforme a normativa española. SaaS multi-tenant + plugin WooCommerce. | [almc.es/verifactu ↗](https://almc.es/es/verifactu) |
+| **WhatsBoost** | Notificaciones y campañas por **WhatsApp Business** desde tus sistemas. Módulos para WooCommerce, PrestaShop, WordPress y Shopify. | [almc.es/whatsboost ↗](https://almc.es/es/whatsboost) |
+| **Chatbot** | Asistente IA multicanal (WhatsApp, Instagram, Facebook, TikTok) para respuestas frecuentes y soporte. | [almc.es/chatbot ↗](https://almc.es/es/productos/chatbot) |
+| **Email AI** | Correo inteligente: clasificación y borradores de respuesta sobre tu buzón **SmarterMail**, con antivirus y filtrado fail-closed. | [almc.es/email-ai ↗](https://almc.es/es/dash/email-ai) |
+| **Abuse Shield** | Protección web y respuesta a incidentes contra abuso y ataques. | [almc.es/shield ↗](https://almc.es/es/shield) |
+| **Commerce / TPV** | Tienda online y punto de venta integrados. | [almc.es/comercio ↗](https://almc.es/es/comercio) |
+| **WebTV** | Cartelería digital para Smart TV, **Fire TV** y Chromecast, con gestión central. | [almc.es/webtv ↗](https://almc.es/es/webtv) |
+| **Fichaje** | Control horario conforme a normativa laboral española (RD-Ley 8/2019). | [almc.es/fichaje ↗](https://almc.es/es/fichaje) |
+| **PrintFlow** | Flujos de impresión conectados para oficina y producción. | [almc.es/printflow ↗](https://almc.es/es/printflow) |
+| **Ulix** | Extensión de navegador para generar QR; herramientas ligeras para tareas diarias. | [almc.es/ulix ↗](https://almc.es/es/ulix) |
+| **Directorio MCP** | Servidores **Model Context Protocol** propios y de terceros, indexados. | [almc.es/mcpserver ↗](https://almc.es/es/mcpserver) |
+
+### Herramientas gratuitas
+
+[Mi IP](https://almc.es/es/mi-ip) · [WHOIS IP](https://almc.es/es/ip) · [WHOIS dominio](https://almc.es/es/whois-dominio) · [DNS lookup](https://almc.es/es/dns-lookup) · [Compresor de imágenes](https://almc.es/es/compressor-imagen)
+
+---
+
+## Servicios profesionales
+
+- **Ciberseguridad**: auditorías, pentesting, hardening, SIEM, RGPD, reparación de webs hackeadas, anti-DDoS y respuesta a incidentes.
+- **Desarrollo**: Laravel/Vue.js, e-commerce (WooCommerce, PrestaShop, Magento), apps móviles, APIs, CRM/ERP.
+- **Servidores y SRE**: Linux, Docker, MariaDB/PostgreSQL/Redis, Nginx, migración cloud, backups y DR.
+- **IA aplicada**: LLMs en backend real, agentes con tool-use, RAG, servidores MCP.
+- **Mantenimiento web**: WordPress, PrestaShop, Magento, Joomla, Drupal, Shopify.
+
+**Sectores:** retail, hostelería, sanidad privada, despachos jurídicos, instaladores, e-commerce, administración local.
+
+---
+
+## Open source
 
 | Repo | Descripción |
 |---|---|
-| [**almc-verifactu-wordpress-woocommerce**](https://github.com/ALMC-SECURITY-SLU/almc-verifactu-wordpress-woocommerce) | Plugin oficial **WooCommerce → AEAT VeriFactu**. Envía cada factura WooCommerce al sistema VeriFactu de la Agencia Tributaria cumpliendo el nuevo reglamento de facturación verificable. Próximamente en wordpress.org. *(GPLv2+)* |
-
-Iremos liberando más herramientas internas a medida que las maduremos para uso público. Watch the org ⭐ para enterarte.
+| [**almc-verifactu-wordpress-woocommerce**](https://github.com/ALMC-SECURITY-SLU/almc-verifactu-wordpress-woocommerce) | Plugin **WooCommerce → AEAT VeriFactu**. Envía cada factura al sistema VeriFactu de la Agencia Tributaria. *(GPLv2+)* |
 
 ---
 
-## 🛠️ Servicios profesionales / Professional services
-
-- **Desarrollo a medida** — Webs, e-commerce (WooCommerce, Magento), apps híbridas, integraciones API.
-- **Ciberseguridad ofensiva y defensiva** — Pentesting, hardening, auditorías de código, respuesta a incidentes.
-- **Cloud, sysadmin y SRE** — Linux (Debian/Ubuntu), Docker, MariaDB/PostgreSQL/Redis, Nginx, observabilidad, copias y DR.
-- **IA aplicada en producción** — LLMs en backend real, agentes con tool‑use, RAG, servidores **MCP**, ingeniería de prompts.
-- **Consultoría técnica** — Code review, arquitectura, due‑diligence técnica, mentoring senior.
-
-**Sectores con experiencia:** retail, hostelería, sanidad privada, despachos jurídicos, instaladores, e-commerce, administraciones públicas locales.
-
----
-
-## ⚙️ Stack que usamos en serio / Stack we run in production
+## Stack
 
 <div align="center">
 
@@ -118,37 +115,53 @@ Iremos liberando más herramientas internas a medida que las maduremos para uso 
 ![LLMs](https://img.shields.io/badge/LLMs_self--hosted-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Headscale](https://img.shields.io/badge/Headscale_Mesh-2F2F2F?style=for-the-badge&logo=wireguard&logoColor=white)
 
+
 </div>
 
 ---
 
-## 📊 Algunos números / By the numbers
+## En cifras
 
-- 🏗️ **+10 productos SaaS propios** desplegados en producción.
-- 🌍 **4 dominios localizados** — ES, EN, FR, CA.
-- 🛡️ Infra propia con **mesh privada Headscale** entre nodos productivos.
-- 🤖 IA en producción real desde **2023**, incluida pasarela MCP propia.
-- 🇪🇸 Empresa española con **CIF español** y facturación interna conforme **VeriFactu**.
+- **10 productos SaaS propios** en producción.
+- **4 dominios localizados**: ES, EN, FR, CA.
+- Infra propia con **mesh privada Headscale** entre nodos productivos.
+- IA en producción desde **2023**, con pasarela MCP propia.
 
 ---
 
-## 📬 Contacto / Contact
+<details>
+<summary><b>English version</b></summary>
+
+### We optimize your servers, we maximize your success
+
+**ALMC SECURITY S.L.U.** is a digital agency based in **Lleida (Spain)** building and running production software for businesses. Every product listed here is live in customer environments.
+
+- **In-house SaaS**: Spanish **VeriFactu** e-invoicing, WhatsApp messaging, AI chatbots, AI email, time tracking, digital signage, POS, print flow, abuse protection, QR browser extension.
+- **Custom software**: websites, e-commerce, mobile apps, API integrations.
+- **Cybersecurity & infrastructure**: audits, pentesting, hardening, anti-abuse, backups and DR.
+- **Applied AI**: LLMs in production, tool-using agents, RAG, MCP servers.
+
+Product details: [almcsecurity.com](https://almcsecurity.com). Contact: [info@almc.es](mailto:info@almc.es).
+
+</details>
+
+---
+
+## Contacto
 
 | | |
 |---|---|
-| 🇪🇸 **España (ES)** | [almc.es](https://almc.es) |
-| 🌐 **Global / English** | [almcsecurity.com](https://almcsecurity.com) |
-| 🇫🇷 **France** | [almcsecurite.fr](https://almcsecurite.fr) |
-| 🏴󠁥󠁳󠁣󠁴󠁿 **Catalunya** | [almc.cat](https://almc.cat) |
-| 📧 **Email** | [info@almc.es](mailto:info@almc.es) |
-| 🐦 **X / Twitter** | [@almc_security](https://x.com/almc_security) |
-| 📍 **Sede** | Lleida, España |
+| **España** | [almc.es](https://almc.es) |
+| **Global / English** | [almcsecurity.com](https://almcsecurity.com) |
+| **France** | [almcsecurite.fr](https://almcsecurite.fr) |
+| **Catalunya** | [almc.cat](https://almc.cat) |
+| **Email** | [info@almc.es](mailto:info@almc.es) |
+| **Teléfono** | [+34 614 443 757](tel:+34614443757) |
+| **X / Twitter** | [@almc_security](https://x.com/almc_security) |
 
 <div align="center">
 
----
-
-**ALMC SECURITY S.L.U.** · Hecho con ☕, Laravel y mucho `tail -f`.
-**Made with ☕, Laravel and a lot of `tail -f`.**
+**ALMC SECURITY S.L.U.** · NIF B21921754 · Rambla de Ferran, 37, 25007 Lleida · Registro Mercantil de Lleida
+[Aviso legal](https://almc.es/es/legal/almc/aviso-legal)
 
 </div>
